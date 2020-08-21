@@ -1,5 +1,5 @@
 # Video2Resolve
-A tiny script that converts videos to be properly imported into DaVinci Resolve for Linux. Also fixes no sound on the render.
+A tiny script that converts videos to be properly imported into DaVinci Resolve for Linux.
 
 ## FAQ:
 
